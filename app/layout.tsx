@@ -10,7 +10,8 @@ import CookieConsent from "@/components/cookie-consent"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "TechRenew - Premium Refurbished Laptops",
+ 
+  title: "AL TAWAM ELECTRONIC EQUIPMENT REPAIRING",
   description:
     "Supplier of the highest quality refurbished laptops in the world. Sustainable technology solutions for businesses, education, and individuals.",
   keywords:
@@ -25,6 +26,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="dark">
+      <head>
+        <link rel="shortcut icon" href="logo1.jpg" type="image/x-icon" />
+      </head>
       <body className={`${inter.className} bg-black text-white`}>
         <ThemeProvider attribute="class" defaultTheme="dark" forcedTheme="dark">
           <Navbar />
