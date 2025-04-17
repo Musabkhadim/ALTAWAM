@@ -27,7 +27,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-      <link rel="icon" href="logo1.png" type="image/png" />
+      <link rel="icon" href="logo1.jpg" type="image/jpg" />
 
       </head>
       <body className={`${inter.className} bg-black text-white`}>
