@@ -1,6 +1,6 @@
 import type React from "react"
 import Link from "next/link"
-import { Facebook, Instagram, Mail, Phone, MapPin } from "lucide-react"
+import { Facebook, Instagram, Mail, Phone, MapPin, Linkedin } from "lucide-react"
 
 export default function Footer() {
   return (
@@ -36,6 +36,10 @@ export default function Footer() {
                   icon={<Instagram size={18} />}
                   href="https://www.instagram.com/mahoozabbasi?igsh=MTg1eXkzdHRyc2lkNA=="
                 />
+                 <SocialIcon
+      icon={<Linkedin size={18} />} 
+      href="https://www.linkedin.com/in/altawam-electronics-98a178143?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+    />
               </div>
             </div>
 

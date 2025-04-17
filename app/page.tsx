@@ -8,7 +8,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative h-[370px] bg-black text-white">
       <div className="absolute inset-0 z-0 overflow-hidden">
-          <video autoPlay muted loop playsInline className="w-full h-full object-cover opacity-60">
+          <video autoPlay muted loop playsInline className="w-full h-full object-cover opacity-45">
             <source src="/video.mp4" type="video/mp4" />
             
           </video>

@@ -27,7 +27,8 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        <link rel="shortcut icon" href="logo1.jpg" type="image/x-icon" />
+      <link rel="icon" href="logo1.png" type="image/png" />
+
       </head>
       <body className={`${inter.className} bg-black text-white`}>
         <ThemeProvider attribute="class" defaultTheme="dark" forcedTheme="dark">

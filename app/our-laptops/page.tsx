@@ -174,7 +174,9 @@ export default function OurLaptops() {
             Our inventory is constantly updating. Contact our team for personalized recommendations or to inquire about
             specific models.
           </p>
-          <Button className="bg-white text-teal-600 hover:bg-gray-100">Contact Our Team</Button>
+          <a href="/contact-us"><Button className="bg-white text-teal-600 hover:bg-gray-100"> 
+    Contact Our Team
+  </Button> </a>
         </div>
       </section>
     </main>
