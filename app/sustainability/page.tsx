@@ -126,7 +126,7 @@ export default function Sustainability() {
             <Button variant="outline" className="border-white text-white hover:bg-teal-700"><a href="/contact-us">
 
         
-              contact us    </a>
+              contact us</a>
             </Button>
           </div>
         </div>
