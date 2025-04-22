@@ -80,6 +80,12 @@ export default function Footer() {
                 <li className="flex items-center">
                   <Mail className="mr-2 h-5 w-5 text-teal-400" />
                   <span className="text-gray-400"> Altawamelectronics@gmail.com</span>
+                  
+                </li>
+                <li className="flex items-center">
+                  <Mail className="mr-2 h-5 w-5 text-teal-400" />
+                  <span className="text-gray-400"> info@altawamlaptops.com</span>
+                  
                 </li>
               </ul>
             </div>
@@ -88,7 +94,7 @@ export default function Footer() {
           {/* Bottom Section */}
           <div className="pt-8 border-t border-gray-800 text-center md:flex md:justify-between md:items-center">
             <p className="text-gray-500 mb-4 md:mb-0">
-              © {new Date().getFullYear()} musabkhadim363@gmail.com. All rights reserved.
+              © {new Date().getFullYear()} Teramob Technologies Pvt.Ltd.
             </p>
             <div className="flex flex-wrap justify-center md:justify-end gap-4">
               <Link href="/sustainability" className="text-gray-500 hover:text-teal-400 text-sm">

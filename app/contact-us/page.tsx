@@ -78,8 +78,8 @@ export default function ContactUs() {
                   <Mail className="h-6 w-6 text-teal-600 mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-lg">Email Us</h3>
-                    <p className="text-gray-600">Altawamelectronics@gmail.com</p>
-                    <p className="text-gray-600">info@teramob.com</p>
+                    <p className="text-gray-600">info@Altawamelaptop.com</p>
+                    <p className="text-gray-600">info@altawamlaptops.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -94,9 +94,8 @@ export default function ContactUs() {
                   <Clock className="h-6 w-6 text-teal-600 mr-4 mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-lg">Business Hours</h3>
-                    <p className="text-gray-600">Monday - Friday: 10:30 AM - 10:30 PM</p>
-                    <p className="text-gray-600">Saturday: 10:30 AM - 11:30 PM</p>
-                    <p className="text-gray-600">friday: Closed</p>
+                    <p className="text-gray-600">Saturday - Thursday: 10:30 AM - 10:30 PM</p>
+                    <p className="text-gray-600">Friday: Closed</p>
                   </div>
                 </div>
               </div>

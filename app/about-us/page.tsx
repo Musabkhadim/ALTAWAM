@@ -195,37 +195,38 @@ const teamMembers = [
   {
     name: "Ahmad Mauz",
     position: "CEO & Founder",
-    bio: "With over 17 years in the tech industry, David founded AL TAWAM ELECTRONIC EQUIPMENT REPAIRING with a vision for sustainable technology.",
+    bio: "With over 17 years in the Tech Industry,Mauz founded ALTAWAM Electronics Laptops & EQUIPMENT REPAIRING with a vision for Sustainable Technology.",
     image: "/mahaiz1.png",
   },
   {
-    name: "Muhammad Muaz",
-    position: "Chief Operations Officer",
-    bio: " Muaz oversees our refurbishment process, ensuring every laptop meets our rigorous quality standards.",
+    name: "Muhammad Mahaz",
+    position: "Chief Operating Officer",
+    bio: " Mahaz oversees our refurbishment process, ensuring every Laptop meets our Rigorous Quality S tandards.",
     image: "/mohoiz3.png",
-  },
-  {
-    name: "Ehsan Ghafoor",
-    position: "Lab technician",
-    bio: "Ehsan Ghafoor leads our lab team, ensuring the accurate execution of tests and maintaining high standards for quality assurance in all laboratory procedures.",
-    image: "/mahouz.jpg",
-  },
-  {
-    name: "Maviya Tahir",
-    position: "Lab technician",
-    bio: " Maviya Tahir manages our lab operations, ensuring precision in testing and maintaining high standards for safety and quality assurance in all procedures.",
-    image: "/mouz.jpg",
   },
   {
     name: "Muhammad Arslan",
     position: "Manager",
-    bio: " Muhammad Arslan manages our lab operations at AL TAWAM ELECTRONIC EQUIPMENT REPAIRING, ensuring precise testing and high standards of safety and quality in every procedure.",
+    bio: " Muhammad Arslan manages our lab operations at ALTAWAM ELECTRONIC LAPTOPS & EQUIPMENT REPAIRING, ensuring precise testing and high standards of safety and quality in every procedure.",
     image: "/arslan.jpg",
   },
   {
+    name: "Ehsan Ghafoor",
+    position: "Lab Technician",
+    bio: "Ehsan Ghafoor leads our Lab Team, ensuring the accurate execution of tests and maintaining high standards for Quality Assurance in all Laboratory procedures.",
+    image: "/mahouz.jpg",
+  },
+  {
+    name: "Maviya Tahir",
+    position: "Lab Technician",
+    bio: " Maviya Tahir manages our Lab Operations, ensuring precision in testing and maintaining high standards for safety and Quality Assurance in all procedures.",
+    image: "/mouz.jpg",
+  },
+ 
+  {
     name: "Salar Abbasi",
     position: "Lab Supervisor",
-    bio: " Salar Abbasi, Lab Supervisor at AL TAWAM ELECTRONIC EQUIPMENT REPAIRING, ensures all repair processes meet top quality and safety standards..",
+    bio: " Salar Abbasi, Lab Supervisor at ALTAWAM ELECTRONICS, ensures all repair processes meet top quality and safety standards..",
     image: "/salar.jpg",
   },
 ]

@@ -30,7 +30,7 @@ export default function Sustainability() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Our Approach to Sustainability Education</h2>
               <p className="text-gray-300 mb-4">
-                At TechRenew, we believe that education is the foundation of sustainable change. Our comprehensive
+                At ALTAWAM, we believe that education is the foundation of sustainable change. Our comprehensive
                 sustainability education programs are designed to inspire, inform, and empower individuals and
                 organizations to make environmentally responsible technology choices.
               </p>
